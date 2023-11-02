@@ -3,7 +3,7 @@ package database
 import (
 	"fmt"
 
-	"github.com/adindazenn/assignment2-03/assignment2/model"
+	"github.com/Kaffeineman/assignment2-06/assignment2/model"
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
 )
