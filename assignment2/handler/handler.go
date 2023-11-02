@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/adindazenn/assignment2-03/assignment2/model"
+	"github.com/Kaffeineman/assignment2-06/assignment2/model"
 	"github.com/gin-gonic/gin"
 	"gorm.io/gorm"
 )
