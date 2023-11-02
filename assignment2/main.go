@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/adindazenn/assignment2-03/assignment2/route"
+	"github.com/Kaffeineman/assignment2-06/assignment2/route"
 
 	"gorm.io/gorm"
 )
