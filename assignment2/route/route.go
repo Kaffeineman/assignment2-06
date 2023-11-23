@@ -1,8 +1,8 @@
 package route
 
 import (
-	"github.com/adindazenn/assignment2-03/assignment2/db"
-	"github.com/adindazenn/assignment2-03/assignment2/handler"
+	"github.com/Kaffeineman/assignment2-06/assignment2/db"
+	"github.com/Kaffeineman/assignment2-06/assignment2/handler"
 	"github.com/gin-gonic/gin"
 )
 
